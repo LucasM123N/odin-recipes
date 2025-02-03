@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  background-color: lightblue;
+}
+ol {
+  display: inline-block;
+}
+ul{
+  display: inline-block;
+}
